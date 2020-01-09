@@ -1,7 +1,7 @@
 # gatsby-starter-gine-blog
 
 
-## https://sad-liskov-e771a6.netlify.com 
+## djtlmd.netlify.com/
 
 <a href="https://app.netlify.com/start/deploy?repository=https://github.com/mayneyao/gatsby-starter-gine-blog" target="_blank"><img src="https://www.netlify.com/img/deploy/button.svg" alt="Deploy to Netlify"></a>
 
